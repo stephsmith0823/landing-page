@@ -11,6 +11,11 @@ h1 {
   margin: 0px;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
 body {
   margin: 0px;
 }
