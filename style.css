@@ -18,6 +18,13 @@
   justify-content: center;
 }
 
+.info-section {
+  display: flex;
+  flex-direction: column;
+  max-width: 100px;
+  flex-wrap: wrap;
+}
+
 .image-1 {
   width: 100px;
   height: 100px;
