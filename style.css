@@ -10,6 +10,10 @@
   color: white;
 }
 
+.div-1 {
+  background-color: #1f2937;
+}
+
 h1 {
   font-family: Roboto, sans-serif;
   color: white;
@@ -24,7 +28,9 @@ header {
 }
 
 body {
+  display: flex;
   margin: 0px;
+  flex-direction: column;
 }
 
 ul {
