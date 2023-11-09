@@ -21,13 +21,13 @@
 .info-section {
   display: flex;
   flex-direction: column;
-  max-width: 100px;
   flex-wrap: wrap;
 }
 
 .image-container {
   display: flex;
   justify-content: space-between;
+  flex-flow: row wrap;
 }
 
 .image-1 {
