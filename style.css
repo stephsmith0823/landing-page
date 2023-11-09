@@ -1,5 +1,8 @@
 body {
   font-family: Roboto, sans-serif;
+  display: flex;
+  margin: 0px;
+  flex-direction: column;
 }
 
 .header-links {
@@ -21,7 +24,7 @@ body {
 }
 
 .info-text {
-  max-width: 100px;
+  max-width: 120px;
   font-size: 12px;
 }
 .info-section {
@@ -36,8 +39,8 @@ body {
 }
 
 .image-1 {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   border-radius: 15px;
 }
 
@@ -56,12 +59,6 @@ h3 {
 header {
   display: flex;
   justify-content: space-around;
-}
-
-body {
-  display: flex;
-  margin: 0px;
-  flex-direction: column;
 }
 
 ul {
