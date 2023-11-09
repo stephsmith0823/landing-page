@@ -20,6 +20,9 @@ body {
   justify-content: center;
 }
 
+.info-text {
+  max-width: 100px;
+}
 .info-section {
   display: flex;
   flex-direction: column;
@@ -28,8 +31,7 @@ body {
 
 .image-container {
   display: flex;
-  justify-content: space-between;
-  flex-flow: row wrap;
+  justify-content: space-evenly;
 }
 
 .image-1 {
