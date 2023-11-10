@@ -17,6 +17,23 @@ body {
   color: white;
 }
 
+button {
+  background-color: #3882f6;
+  border-color: #3882f6;
+  border-radius: 6px;
+  color: white;
+  padding: 3px;
+}
+
+.signup-button2 {
+  background-color: #3882f6;
+  border-color: #3882f6;
+  border-radius: 6px;
+  border: 1px solid white;
+  color: white;
+  padding: 3px;
+}
+
 .div-1 {
   background-color: #1f2937;
   flex: 1;
@@ -80,7 +97,12 @@ body {
 }
 
 .div-end {
-  flex: 1;
+  display: flex;
+  background-color: #3882f6;
+  color: white;
+  justify-content: center;
+  max-width: 900px;
+  border-radius: 15px;
 }
 
 h1 {
