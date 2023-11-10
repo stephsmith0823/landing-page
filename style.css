@@ -12,8 +12,10 @@ body {
 }
 
 .content-intro {
+  display: flex;
   background-color: #1f2937;
   color: white;
+  justify-content: space-around;
 }
 
 .div-1 {
