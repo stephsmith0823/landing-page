@@ -44,7 +44,12 @@ body {
 .image-1 {
   width: 120px;
   height: 120px;
+  border: 2px solid #3882f6;
   border-radius: 15px;
+}
+
+.image-2 {
+  max-width: 300px;
 }
 
 .quote-container {
