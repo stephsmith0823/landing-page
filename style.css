@@ -55,8 +55,12 @@ body {
   border-radius: 15px;
 }
 
-.image-2 {
+.image-2cont {
   max-width: 450px;
+}
+.image-2 {
+  max-width: 350px;
+  padding: 50px;
 }
 
 .quote-container {
