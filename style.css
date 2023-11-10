@@ -38,7 +38,7 @@ body {
 
 .image-container {
   display: flex;
-  justify-content: space-evenly;
+  gap: 5%;
 }
 
 .image-1 {
