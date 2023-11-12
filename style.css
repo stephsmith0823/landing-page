@@ -101,7 +101,7 @@ button {
   background-color: #3882f6;
   color: white;
   justify-content: center;
-  max-width: 900px;
+  align-self: center;
   border-radius: 15px;
 }
 
