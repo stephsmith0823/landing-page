@@ -100,9 +100,10 @@ button {
   display: flex;
   background-color: #3882f6;
   color: white;
-  justify-content: center;
   align-self: center;
   border-radius: 15px;
+  padding: 0px 80px 20px 80px;
+  margin: 50px;
 }
 
 .footer {
@@ -110,7 +111,7 @@ button {
   background-color: #1f2937;
   color: white;
   justify-content: center;
-  padding: 25px 0px 25px 0px;
+  padding: 25px 0px 25px 0px;g
 }
 
 h1 {
