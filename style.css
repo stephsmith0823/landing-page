@@ -106,12 +106,18 @@ button {
   margin: 50px;
 }
 
+.bottom-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .footer {
   display: flex;
   background-color: #1f2937;
   color: white;
   justify-content: center;
-  padding: 25px 0px 25px 0px;g
+  padding: 25px 0px 25px 0px;
 }
 
 h1 {
