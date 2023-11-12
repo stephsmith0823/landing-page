@@ -105,6 +105,14 @@ button {
   border-radius: 15px;
 }
 
+.footer {
+  display: flex;
+  background-color: #1f2937;
+  color: white;
+  justify-content: center;
+  padding: 25px 0px 25px 0px;
+}
+
 h1 {
   color: white;
   font-size: 24px;
